@@ -25,9 +25,11 @@ set pgp_replysign=yes
 set pgp_replyencrypt=yes
 set pgp_timeout=3600
 set pgp_verify_sig=yes
+set pgp_use_gpg_agent=yes
 set crypt_autosign=yes
 set crypt_replyencrypt=yes
 set crypt_verify_sig=yes
+set crypt_opportunistic_encrypt=yes
 
 # Setting for composing mails
 # set edit_headers=yes

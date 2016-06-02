@@ -72,9 +72,9 @@ set pager_index_lines=15
 # Sidebar
 set sidebar_width=30
 set sidebar_visible=yes
-set sidebar_delim='|'
-set sidebar_sort=no
-set sidebar_shortpath=yes
+# set sidebar_delim='|'
+# set sidebar_sort=no
+# set sidebar_shortpath=yes
 # set sidebar_folderindent=yes
 # set sidebar_indentstr="  "
 color sidebar_new red default

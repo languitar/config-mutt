@@ -28,6 +28,7 @@ set pgp_verify_sig=yes
 set crypt_autosign=yes
 set crypt_replyencrypt=yes
 set crypt_verify_sig=yes
+set crypt_opportunistic_encrypt=yes
 
 # Setting for composing mails
 # set edit_headers=yes
